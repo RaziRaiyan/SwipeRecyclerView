@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeRecyclerView</string>
+    <string name="snack_bar_text">Rollback Changes?</string>
+    <string name="snack_bar_undo">UNDO</string>
+</resources>
